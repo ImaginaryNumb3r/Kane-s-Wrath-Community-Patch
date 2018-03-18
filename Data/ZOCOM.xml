@@ -10,15 +10,15 @@
 
         <!-- ==##== Main Factions ==##== -->
         <Include type="all" source="NOD.xml"/>
-        <Include type="all" source="Black Hand.xml" />
-        <Include type="all" source="Marked Of Kane.xml" />
+        <Include type="all" source="BlackHand.xml" />
+        <Include type="all" source="MarkedOfKane.xml" />
 
         <Include type="all" source="GDI.xml"  />
         <Include type="all" source="ZOCOM.xml" />
-        <Include type="all" source="Steel Talons.xml" />
+        <Include type="all" source="SteelTalons.xml" />
 
         <Include type="all" source="Alien.xml"  />
-        <Include type="all" source="Reaper-17.xml" />
-        <Include type="all" source="Traveler-59.xml" />
+        <Include type="all" source="Reaper17.xml" />
+        <Include type="all" source="Traveler59.xml" />
     </Includes>
 </AssetDeclaration>
